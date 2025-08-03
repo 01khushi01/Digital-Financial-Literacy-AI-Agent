@@ -4,6 +4,10 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
+ai.jpg
+
+---
+
 ## 🧩 Problem Statement
 
 Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
@@ -121,6 +125,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Multilingual expansion with Watson Language Translator
 
 ---
+
 
 
 
