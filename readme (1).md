@@ -101,8 +101,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 ### 🔹 API References after Deployment...
 ![api _references](links.jpg.png)
 ### 🔹 Resources List...
-![resourses_list.jpg](<img width="1870" height="944" alt="image" src="https://github.com/user-attachments/assets/3aae8778-315e-4f01-b17f-1e295d396435" />
-)
+![resourses_list](resources_list.jpg.png)
 
 ---
 
@@ -128,6 +127,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Multilingual expansion with Watson Language Translator
 
 ---
+
 
 
 
