@@ -4,10 +4,6 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![ai](ai.jpg)
-
----
-
 ## 🧩 Problem Statement
 
 Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
@@ -87,25 +83,19 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ## 🖼️ Screenshots
 ### 🔹 Setting up..
-![Setup & preview image](setup.jpg)
+![Setup & preview image](setup.jpg.png)
 ### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
+![Agent Instructions](agent_instructions.jpg.png)
 ### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
+![quick_start_questions](quick_start_questions.jpg.png)
 ### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
+![Tool Used & Testing](tool_testing.jpg.png)
 ### 🔹 Deployment & Preview...
-![Deployment & Testing](deployed.jpg)
+![Deployment & Testing](deployed.jpg.png)
 ### 🔹 API References after Deployment...
-![api _references](links.jpg)
+![api _references](links.jpg.png)
 ### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
-
----
-
-## Recordings(watch to build on your own)
-▶️ [Building](https://youtu.be/oanWlnqpiP4)
-▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
+![resourses_list.jpg](resourses_list.jpg.png)
 
 ---
 
@@ -132,25 +122,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## 🔗 Useful Links
 
-- [IBM Cloud Lite](https://cloud.ibm.com/registration)
-- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
-- [RBI Official Website](https://www.rbi.org.in)
-- [NPCI FAQs](https://www.npci.org.in/what-we-do/upi/faqs)
-- [IBM SkillsBuild](https://skillsbuild.org)
 
----
 
-## ⚖️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-pandala-243914229/)
-
----
-
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
 
