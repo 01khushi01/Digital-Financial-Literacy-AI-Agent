@@ -101,7 +101,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 ### 🔹 API References after Deployment...
 ![api _references](links.jpg.png)
 ### 🔹 Resources List...
-![resourses_list](resourses_list.jpg.png)
+![resourses_list](resources_list.jpg.png)
 
 ---
 
