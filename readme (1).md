@@ -4,7 +4,9 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-ai.jpg
+<img width="194" height="211" alt="image" src="https://github.com/user-attachments/assets/80cb40fc-248d-4a25-87fc-538dfecf20af" />
+
+
 
 ---
 
@@ -125,6 +127,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Multilingual expansion with Watson Language Translator
 
 ---
+
 
 
 
